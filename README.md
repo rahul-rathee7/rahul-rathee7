@@ -25,7 +25,7 @@ Check out more of my repositories below to explore my work!
 
 ## 🌐 Let's Connect
 
-- [LinkedIn target="_blank"](https://www.linkedin.com/in/rahul-rathee7/)
+- [LinkedIn](https://www.linkedin.com/in/rahul-rathee7/)
 - [Email](mailto:ratheerahul602@gmail.com)
 
 ---
