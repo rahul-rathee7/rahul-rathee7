@@ -1,4 +1,4 @@
-# Hi there, I'm [Rahul Rathee]! 👋
+# Hi there, I'm Rahul Rathee! 👋
 
 Welcome to my GitHub profile! I'm a passionate **B.Tech Computer Science Engineering student** with expertise in front-end development, programming, and a growing interest in **Cloud Computing** and **DevOps**. Here, you'll find projects that reflect my skills, learning journey, and enthusiasm for technology.
 
