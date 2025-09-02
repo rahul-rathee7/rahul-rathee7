@@ -16,6 +16,9 @@ Welcome to my GitHub profile! I'm a passionate **B.Tech Computer Science Enginee
 
 ## 📈 Projects
 
+### Food Farm
+- **Role:** Team Leader
+
 ### Recipe Finder
 - **Role:** Admin
 
