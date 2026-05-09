@@ -32,28 +32,28 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 [CodeLens — AI Code Reviewer](https://github.com/rahul-rathee7/codelens)   [Live Demo ↗](YOUR_LIVE_LINK)
+### 🔍 [CodeLens — AI Code Reviewer](https://github.com/rahul-rathee7/codelens)   [Live Demo ↗](http://51.20.56.158/)
 > Full-stack AI platform where developers submit code snippets and get automated feedback, bug detection & optimization suggestions via the Gemini API.
 
 **Tech:** `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Gemini API` `Docker` `AWS EC2` `Nginx`
 
 ---
 
-### 📚 [Learning System — AI Education Platform](https://github.com/rahul-rathee7/learning-system)   [Live Demo ↗](YOUR_LIVE_LINK)
+### 📚 [Learning System — AI Education Platform](https://github.com/rahul-rathee7/learning-system)   [Live Demo ↗](https://learning-system-blush.vercel.app/)
 > AI-powered learning platform — document upload, auto note generation, quiz creation & interactive workflows for students.
 
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `TailwindCSS` `ShadCN UI` `AWS EC2` `Vercel`
 
 ---
 
-### 📅 [Event Management System](https://github.com/rahul-rathee7/event-management)   [Live Demo ↗](YOUR_LIVE_LINK)
+### 📅 [Event Management System](https://github.com/rahul-rathee7/event-management)   [Live Demo ↗](https://event-mangement-system-one.vercel.app/)
 > Full-stack event platform with event creation, attendee registration, real-time status updates & SSR-optimized SEO.
 
 **Tech:** `Next.js` `ShadCN UI` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-### 🌐 [Personal Portfolio](https://github.com/rahul-rathee7/portfolio)   [Live ↗](YOUR_LIVE_LINK)
+### 🌐 [Personal Portfolio](https://github.com/rahul-rathee7/portfolio)   [Live ↗](https://portfolio-bay-seven-69.vercel.app/)
 > Animated portfolio website with Framer Motion, deployed on Vercel with optimized Lighthouse scores.
 
 **Tech:** `Next.js` `TailwindCSS` `Framer Motion` `Vercel`
