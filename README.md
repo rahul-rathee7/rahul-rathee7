@@ -1,6 +1,3 @@
-Preview
-Markdown Code
-Setup Guide
 <h1 align="center">Hi, I'm Rahul Rathee 👋</h1>
 
 <p align="center">
@@ -97,5 +94,3 @@ Setup Guide
 </p>
 
 > 💼 Actively looking for **Full Stack Developer** roles · Available from **May 2026**
-
-Copy markdown code
