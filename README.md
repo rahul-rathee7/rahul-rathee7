@@ -21,11 +21,11 @@
 
 ## 🙋‍♂️ About me
 
-- 🎓 Final-year B.Tech CSE student at **Geeta University, Panipat**
+- 🎓 Graduated in B.Tech CSE from **Geeta University, Panipat**
 - 🚀 Building production-grade full-stack apps with **MERN, Next.js & TypeScript**
 - ☁️ Deployed apps on **AWS EC2** with Docker + Nginx reverse proxy
 - 🤖 Integrated **Gemini & OpenAI APIs** into real-world products
-- 💼 **Open to full-stack developer roles** — available from May 2026
+- 💼 **Open to full-stack developer roles**
 - 📫 Reach me at **ratheerahul602@gmail.com**
 
 ---
@@ -93,4 +93,4 @@
   <a href="mailto:ratheerahul602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-> 💼 Actively looking for **Full Stack Developer** roles · Available from **May 2026**
+> 💼 Actively looking for **Full Stack Developer** roles ·
